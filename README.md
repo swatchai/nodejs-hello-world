@@ -7,7 +7,7 @@ This package was created to simplify the verification of a nodejs install and po
 
 ## Installation
 
-    $ git clone https://github.com/mitchallen/nodejs-hello-world.git
+    $ git clone https://github.com/swatchai/nodejs-hello-world.git
   
 * * *
 
